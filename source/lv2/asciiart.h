@@ -1,10 +1,20 @@
 static char* asciiart = "\n"
-"   _____       _                       _____                      _           \n"
-"  / ____|     | |                     / ____|                    | |          \n"
-" | (___   __ _| |_ _   _ _ __ _ __   | |     ___  _ __  ___  ___ | | ___  ___ \n"
-"  \___ \ / _` | __| | | | '__| '_ \  | |    / _ \| '_ \/ __|/ _ \| |/ _ \/ __|\n"
-"  ____) | (_| | |_| |_| | |  | | | | | |___| (_) | | | \__ \ (_) | |  __/\__ \\n"
-" |_____/ \__,_|\__|\__,_|_|  |_| |_|  \_____\___/|_| |_|___/\___/|_|\___||___/\n"
+"   SSSSSSSSSSSSSSS                                  tttt                                                                    \n"
+"   SS:::::::::::::::S                              ttt:::t                                                                  \n"
+"  S:::::SSSSSS::::::S                              t:::::t                                                                  \n"
+"  S:::::S     SSSSSSS                              t:::::t                                                                  \n"
+"  S:::::S                 aaaaaaaaaaaaa     ttttttt:::::ttttttt       uuuuuu    uuuuuu    rrrrr   rrrrrrrrr      nnnn  nnnnnnnn     \n"
+"  S:::::S                 a::::::::::::a    t:::::::::::::::::t       u::::u    u::::u    r::::rrr:::::::::r     n:::nn::::::::nn   \n"
+"   S::::SSSS              aaaaaaaaa:::::a   t:::::::::::::::::t       u::::u    u::::u    r:::::::::::::::::r    n::::::::::::::nn  \n"
+"    SS::::::SSSSS                  a::::a   tttttt:::::::tttttt       u::::u    u::::u    rr::::::rrrrr::::::rn   n:::::::::::::::n \n"
+"      SSS::::::::SS         aaaaaaa:::::a         t:::::t             u::::u    u::::u     r:::::r     r:::::r     n:::::nnnn:::::n \n"
+"         SSSSSS::::S      aa::::::::::::a         t:::::t             u::::u    u::::u     r:::::r     rrrrrrr     n::::n    n::::n \n"
+"              S:::::S    a::::aaaa::::::a         t:::::t             u::::u    u::::u     r:::::r                 n::::n    n::::n \n"
+"              S:::::S   a::::a    a:::::a         t:::::t    tttttt   u:::::uuuu:::::u     r:::::r                 n::::n    n::::n \n"
+"  SSSSSSS     S:::::S   a::::a    a:::::a         t::::::tttt:::::t   u:::::::::::::::uu   r:::::r                 n::::n    n::::n \n"
+"  S::::::SSSSSS:::::S   a:::::aaaa::::::a         tt::::::::::::::t    u:::::::::::::::u   r:::::r                 n::::n    n::::n \n"
+"  S:::::::::::::::SS     a::::::::::aa:::a          tt:::::::::::tt     uu::::::::uu:::u   r:::::r                 n::::n    n::::n \n"
+"   SSSSSSSSSSSSSSS        aaaaaaaaaa  aaaa            ttttttttttt         uuuuuuuu  uuuu   rrrrrrr                 nnnnnn    nnnnnn \n\n";
     "             Xenon Linux Loader Reloaded v0.993, Saturn Edition\n";
 
 static char* asciitail =

@@ -132,3 +132,5 @@ kboot.conf gets found but it doesn't show bootentries or autoloads a bootentry:
 --Make sure you didn't forget the "" on the bootentry: label="kernelpath params"
 --Also take care of using a texteditor which doesnt automatically break lines if they are too long (will break bootentries), also it shouldn't
 modificate the encoding and lineendings of the config!
+
+Build Test, Saturn
